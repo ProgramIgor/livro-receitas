@@ -6,4 +6,4 @@ Olá, bem vindo! Este é o melhor livro de receitas que você irá encontrar!
 - Mousse de Maracujá
 
 **Aula Git - Dio - Introdução ao Git e Git Hub**
-
+Estudando conflitos Git
